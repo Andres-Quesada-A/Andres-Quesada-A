@@ -31,3 +31,18 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<p>
+◾ CSS3 
+◾ HTML5 
+◾ JavaScript 
+◾ PHP 
+◾ Python 
+◾ C++ 
+◾ React JS 
+◾ Node JS 
+◾ SQLSERVER
+  MYSQL
+  Typescript
+◾ Git 
+◾ Github
+</p>
