@@ -1,3 +1,6 @@
+![pexels-miguel-á-padriñán-1591060](https://user-images.githubusercontent.com/82300334/213952105-9109179d-6c69-42e8-a38d-92a3406590c6.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Andres Quesada</h1>
 <h3 align="center">Computer engineering student passionate about programming and web development (FrontEnd and BackEnd). Open to help and share my knowledge with others through communication skills that allow me to fit in and work collaboratively in a team and independently. I take advantage of all situations to grow personally and professionally.</h3>
 
